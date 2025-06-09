@@ -1,2 +1,2 @@
 # hatrick
-Load 
+Load best time
